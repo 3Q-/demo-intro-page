@@ -10,4 +10,4 @@
 ##这个示例以脚本结合原生的方式为开发者实现了一个引导页
 * 示例请使用 Apploader 查看。
 
-frameGroup 的使用可以[参考文档](http://docs.apicloud.com/端API/api#28)
+* frameGroup 的使用可以参考文档([http://docs.apicloud.com/端API/api#28](http://docs.apicloud.com/端API/api#28))
